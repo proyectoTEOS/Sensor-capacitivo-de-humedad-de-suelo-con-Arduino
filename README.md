@@ -1,4 +1,4 @@
-# Sensor de temperatura y humedad del sensor DHT22
+# Sensor capacitivo de humedad de suelo con Arduino
 Mide los niveles de humedad del suelo mediante detección capacitiva con Arduino.
 
 ### Requisitos
@@ -45,4 +45,4 @@ void loop() {
 
 ### Diagrama
 El siguiente esquemático muestra como se debe conectar todos los componentes con la placa.
-![](https://github.com/proyectoTEOS/Sensor-capacitivo-de-humedad-del-suelo-con-Arduino/blob/master/Sensor-capacitivo-de-humedad-del-suelo-con-Arduino.jpg)
+![](https://github.com/proyectoTEOS/Sensor-capacitivo-de-humedad-de-suelo-con-Arduino/blob/master/Sensor-capacitivo-de-humedad-de-suelo-con-Arduino.jpg)
